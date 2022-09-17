@@ -1,8 +1,8 @@
-﻿namespace Backend_API.Models;
-public class TodoItem
+﻿namespace Backend_API.DTO;
+
+public class TodoItemDTO
 {
     public long Id { get; set; }
     public string? Name { get; set; }
     public bool IsComplete { get; set; }
-    public string? Secret { get; set; }
 }
