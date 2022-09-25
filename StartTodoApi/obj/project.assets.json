@@ -10604,11 +10604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nmtha\\OneDrive\\Desktop\\Backend-API\\Backend-API\\Backend-API.csproj",
-      "projectName": "Backend-API",
-      "projectPath": "C:\\Users\\nmtha\\OneDrive\\Desktop\\Backend-API\\Backend-API\\Backend-API.csproj",
+      "projectUniqueName": "C:\\Users\\nmtha\\OneDrive\\Desktop\\Backend-API\\StartTodoApi\\StartTodoApi.csproj",
+      "projectName": "StartTodoApi",
+      "projectPath": "C:\\Users\\nmtha\\OneDrive\\Desktop\\Backend-API\\StartTodoApi\\StartTodoApi.csproj",
       "packagesPath": "C:\\Users\\nmtha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nmtha\\OneDrive\\Desktop\\Backend-API\\Backend-API\\obj\\",
+      "outputPath": "C:\\Users\\nmtha\\OneDrive\\Desktop\\Backend-API\\StartTodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nmtha\\AppData\\Roaming\\NuGet\\NuGet.Config"

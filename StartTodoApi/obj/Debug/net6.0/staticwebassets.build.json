@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "yDcQNpwwDGCBp/QYGcwFmZnJ55PDtltYuzHjMzvZW2Q=",
-  "Source": "Backend-API",
-  "BasePath": "_content/Backend-API",
+  "Hash": "l9wscPCfvfDUjUNMqlxmtgkbmFAmrk4wtnOMKQw/hx4=",
+  "Source": "StartTodoApi",
+  "BasePath": "_content/StartTodoApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
